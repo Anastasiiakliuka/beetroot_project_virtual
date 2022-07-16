@@ -1,3 +1,4 @@
+"""This is comment"""
 #task_1 The greatest number. Write a Python program to get the largest number from a list of random numbers
 # with the length of 10
 
